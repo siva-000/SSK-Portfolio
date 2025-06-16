@@ -604,6 +604,10 @@ nav a:hover {
 #blue-border-under-header, #grey-border-under-header {
     height: 0.5vw;
 }
+	
+.animation {
+    margin-bottom: 10vw;
+}
 
 .animation iframe {
     width: 100%;
