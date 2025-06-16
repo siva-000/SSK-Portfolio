@@ -509,7 +509,8 @@ nav a:hover {
 
 #your-photo {
     height: 70vw;
-    margin: 10vw 0 10vw 30vw;
+    display: flex;
+    margin: 10vw auto 10vw auto;
     border-left: 1vw solid blue;
     padding-bottom: 4vw;
 }
@@ -517,7 +518,7 @@ nav a:hover {
 #designation-line {
     font-size: 4vw;
     color: blue;
-    margin: 3vw 0 3vw 9vw;
+    margin: 3vw auto 3vw auto;
 }
 
 #resume {
@@ -530,7 +531,7 @@ nav a:hover {
     justify-content: center;
     padding: 2vw 0;
     width: 45vw;
-    margin: 4vw 0 2vw 25vw;
+    margin: 4vw auto 4vw auto;
 }
 
 #resume svg {
