@@ -332,6 +332,7 @@ nav a:hover {
     height: 40vw;
     transform: scale(1); 
     transition: transform 1s ease;
+    margin-bottom: 5vw;
 }
 
 .animation iframe:hover {
@@ -621,6 +622,7 @@ nav a:hover {
     display: flex;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10vw;
 }
 
 footer {
